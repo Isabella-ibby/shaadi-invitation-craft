@@ -1,47 +1,47 @@
 [
   {
-    "title": "Mehndi Ceremony",
-    "date": "December 17, 2026",
+    "title": "Mehendi & Haldi",
+    "date": "December 9, 2017",
     "time": "11:00 AM - 4:00 PM",
-    "venue": "Bride's Residence, South Delhi",
+    "venue": "Borgo Finocchieto Gardens",
     "icon": "Palette",
-    "description": "Join us for an afternoon of beautiful henna art, music, and celebration as we begin our wedding festivities.",
-    "dressCode": "Colorful Indian Attire"
+    "description": "A vibrant afternoon of colors, henna, dhol beats, and lots of dancing to kick off our wedding celebrations in Italy.",
+    "dressCode": "Colorful & Breezy"
   },
   {
-    "title": "Haldi Ceremony",
-    "date": "December 18, 2026",
-    "time": "9:00 AM - 1:00 PM",
-    "venue": "The Taj Palace Gardens",
-    "icon": "Sun",
-    "description": "A sacred ritual of turmeric blessings. Come dressed in yellow and prepare for some fun!",
-    "dressCode": "Yellow Traditional Wear"
-  },
-  {
-    "title": "Sangeet Night",
-    "date": "December 19, 2026",
+    "title": "Ring Ceremony",
+    "date": "December 10, 2017",
     "time": "7:00 PM - 12:00 AM",
-    "venue": "The Taj Palace Ballroom",
-    "icon": "Music",
-    "description": "An evening of dance, music, and unforgettable performances. Get ready to dance the night away!",
-    "dressCode": "Cocktail / Indo-Western"
+    "venue": "Borgo Finocchieto Courtyard",
+    "icon": "Heart",
+    "description": "An intimate evening where we exchanged rings surrounded by a beautiful setup of roses and our closest people.",
+    "dressCode": "Elegant Evening Wear"
   },
   {
     "title": "Wedding Ceremony",
-    "date": "December 20, 2026",
-    "time": "6:00 PM - 9:00 PM",
-    "venue": "The Taj Palace Grand Lawn",
-    "icon": "Heart",
-    "description": "The moment we've been waiting for. Join us as we take our vows and begin our forever together.",
-    "dressCode": "Formal Indian / Black Tie"
+    "date": "December 11, 2017",
+    "time": "4:00 PM - 7:00 PM",
+    "venue": "Borgo Finocchieto Resort",
+    "icon": "Sun",
+    "description": "The magical moment we tied the knot in a beautiful day wedding setup in the rolling hills of Tuscany.",
+    "dressCode": "Traditional Pastels"
   },
   {
-    "title": "Grand Reception",
-    "date": "December 21, 2026",
-    "time": "7:00 PM - 1:00 AM",
-    "venue": "The Taj Palace Durbar Hall",
+    "title": "Delhi Reception",
+    "date": "December 21, 2017",
+    "time": "8:00 PM Onwards",
+    "venue": "Taj Diplomatic Enclave, New Delhi",
     "icon": "PartyPopper",
-    "description": "Celebrate with us at a grand reception filled with gourmet dining, live music, and dancing.",
-    "dressCode": "Black Tie / Evening Gowns"
+    "description": "Our first reception for family and dignitaries in the capital.",
+    "dressCode": "Traditional Indian"
+  },
+  {
+    "title": "Mumbai Reception",
+    "date": "December 26, 2017",
+    "time": "8:30 PM Onwards",
+    "venue": "St. Regis, Mumbai",
+    "icon": "Music",
+    "description": "A grand celebration with our friends from the cricket and film fraternity.",
+    "dressCode": "Black Tie / Glamorous"
   }
 ]

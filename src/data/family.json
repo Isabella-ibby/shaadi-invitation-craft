@@ -1,22 +1,20 @@
 [
   {
     "side": "bride",
-    "title": "Bride's Family",
+    "title": "Anushka's Family",
     "members": [
-      { "name": "Mr. Rajesh Sharma", "relation": "Father of the Bride", "side": "bride", "image": "/photos/family/bride-father.jpg" },
-      { "name": "Mrs. Sunita Sharma", "relation": "Mother of the Bride", "side": "bride", "image": "/photos/family/bride-mother.jpg" },
-      { "name": "Rohan Sharma", "relation": "Brother", "side": "bride", "image": "/photos/family/bride-brother.jpg" },
-      { "name": "Mrs. Kamla Devi", "relation": "Grandmother", "side": "bride", "image": "/photos/family/bride-grandmother.jpg" }
+      { "name": "Ajay Kumar Sharma", "relation": "Father", "side": "bride", "image": "/photos/family/bride-father.jpg" },
+      { "name": "Ashima Sharma", "relation": "Mother", "side": "bride", "image": "/photos/family/bride-mother.jpg" },
+      { "name": "Karnesh Sharma", "relation": "Brother", "side": "bride", "image": "/photos/family/bride-brother.jpg" }
     ]
   },
   {
     "side": "groom",
-    "title": "Groom's Family",
+    "title": "Virat's Family",
     "members": [
-      { "name": "Mr. Vikram Mehta", "relation": "Father of the Groom", "side": "groom", "image": "/photos/family/groom-father.jpg" },
-      { "name": "Mrs. Priya Mehta", "relation": "Mother of the Groom", "side": "groom", "image": "/photos/family/groom-mother.jpg" },
-      { "name": "Kavya Mehta", "relation": "Sister", "side": "groom", "image": "/photos/family/groom-sister.jpg" },
-      { "name": "Mr. Harish Mehta", "relation": "Grandfather", "side": "groom", "image": "/photos/family/groom-grandfather.jpg" }
+      { "name": "Saroj Kohli", "relation": "Mother", "side": "groom", "image": "/photos/family/groom-mother.jpg" },
+      { "name": "Vikas Kohli", "relation": "Brother", "side": "groom", "image": "/photos/family/groom-brother.jpg" },
+      { "name": "Bhawna Kohli Dhingra", "relation": "Sister", "side": "groom", "image": "/photos/family/groom-sister.jpg" }
     ]
   }
 ]

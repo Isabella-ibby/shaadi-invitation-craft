@@ -1,38 +1,32 @@
 [
   {
     "title": "The First Meeting",
-    "description": "We first crossed paths at a mutual friend's art exhibition in Hauz Khas Village. A conversation about abstract art turned into hours of talking, laughing, and discovering we had more in common than we ever imagined.",
-    "date": "March 2021",
+    "description": "We first met on the sets of a shampoo commercial in 2013. We instantly connected and became good friends, which soon blossomed into something much more beautiful.",
+    "date": "2013",
     "image": "/photos/story/first-meeting.jpg"
   },
   {
-    "title": "The First Date",
-    "description": "A cozy evening at a rooftop café in Connaught Place, watching the sunset paint the Delhi sky in shades of gold. That evening, we both knew this was something special.",
-    "date": "April 2021",
+    "title": "Making it Public",
+    "description": "After keeping it under wraps for a while, Virat blew a flying kiss to Anushka in the stands during a match, making our relationship official to the world.",
+    "date": "November 2014",
     "image": "/photos/story/first-date.jpg"
   },
   {
-    "title": "Adventures Together",
-    "description": "From spontaneous road trips to Jaipur to quiet Sunday mornings with chai and books, every moment together became a cherished memory in our love story.",
-    "date": "2021 - 2024",
+    "title": "Standing by Each Other",
+    "description": "Through the highs of centuries and the lows of tough tours, we have been each other's biggest pillars of strength.",
+    "date": "2015 - 2017",
     "image": "/photos/story/adventures.jpg"
   },
   {
-    "title": "Meeting the Families",
-    "description": "The day our families met was filled with warmth, laughter, and the unmistakable feeling that we were meant to be. Both families connected instantly over dinner.",
-    "date": "January 2025",
-    "image": "/photos/story/families.jpg"
-  },
-  {
     "title": "The Proposal",
-    "description": "Under a canopy of fairy lights at the Lodhi Gardens, Arjun got down on one knee with a ring that sparkled as bright as our future together. She said yes!",
-    "date": "June 2025",
+    "description": "A quiet, romantic proposal that was just between the two of us, sealing our promise to be together forever.",
+    "date": "2017",
     "image": "/photos/story/proposal.jpg"
   },
   {
     "title": "The Big Day",
-    "description": "And now, we invite you to celebrate the beginning of our forever. Join us as we embark on the most beautiful journey of our lives — together.",
-    "date": "December 2026",
+    "description": "Surrounded by our closest friends and family in the beautiful countryside of Tuscany, we tied the knot in a magical ceremony.",
+    "date": "December 11, 2017",
     "image": "/photos/story/wedding.jpg"
   }
 ]
