@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import themeData from '@/data/theme.json';
 import { getThemePreset } from '@/lib/themes';
 import type { ThemePreset, ThemeConfig } from '@/types/theme';
@@ -5,16 +6,13 @@ import type { ThemePreset, ThemeConfig } from '@/types/theme';
 const config: ThemeConfig = themeData as ThemeConfig;
 
 /** Deep merge two objects */
-function deepMerge<T extends Record<string, unknown>>(target: T, source: Partial<T>): T {
+function deepMerge(target: any, source: any): any {
   const result = { ...target };
   for (const key in source) {
     if (source[key] && typeof source[key] === 'object' && !Array.isArray(source[key])) {
-      result[key] = deepMerge(
-        (target[key] || {}) as Record<string, unknown>,
-        source[key] as Record<string, unknown>
-      ) as T[typeof key];
+      result[key] = deepMerge(target[key] || {}, source[key]);
     } else if (source[key] !== undefined) {
-      result[key] = source[key] as T[typeof key];
+      result[key] = source[key];
     }
   }
   return result;
@@ -23,7 +21,7 @@ function deepMerge<T extends Record<string, unknown>>(target: T, source: Partial
 /** Resolved theme preset with custom overrides applied */
 export const themeConfig: ThemePreset = deepMerge(
   getThemePreset(config.preset),
-  (config.customOverrides || {}) as Partial<ThemePreset>
+  config.customOverrides || {}
 );
 
 /** Generate CSS custom property declarations from the theme */
