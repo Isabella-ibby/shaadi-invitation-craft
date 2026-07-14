@@ -132,7 +132,7 @@ const Button = forwardRef<HTMLButtonElement | HTMLAnchorElement, ButtonProps>(
           style={variantStyles[variant]}
           whileHover={{ scale: 1.02, filter: 'brightness(1.1)' }}
           whileTap={{ scale: 0.98 }}
-          {...(props as React.AnchorHTMLAttributes<HTMLAnchorElement>)}
+          {...(props as any)}
         >
           {content}
         </motion.a>
@@ -147,7 +147,7 @@ const Button = forwardRef<HTMLButtonElement | HTMLAnchorElement, ButtonProps>(
         disabled={isDisabled}
         whileHover={isDisabled ? {} : { scale: 1.02, filter: 'brightness(1.1)' }}
         whileTap={isDisabled ? {} : { scale: 0.98 }}
-        {...(props as HTMLMotionProps<'button'>)}
+        {...(props as any)}
       >
         {content}
       </motion.button>

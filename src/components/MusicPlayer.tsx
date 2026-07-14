@@ -123,7 +123,6 @@ export default function MusicPlayer({
           style={{
             background: 'linear-gradient(135deg, var(--color-primary), var(--color-accent))',
             color: 'var(--color-background)',
-            focusVisibleRingColor: 'var(--color-primary)',
           }}
           whileHover={{ scale: 1.1 }}
           whileTap={{ scale: 0.95 }}
