@@ -1,0 +1,26 @@
+[
+  {
+    "name": "The Taj Palace",
+    "distance": "Venue (0 km)",
+    "priceRange": "₹15,000 - ₹45,000 / night",
+    "bookingUrl": "https://www.tajhotels.com",
+    "phone": "+91 11 2611 0202",
+    "address": "2, Sardar Patel Marg, Diplomatic Enclave, New Delhi"
+  },
+  {
+    "name": "ITC Maurya",
+    "distance": "1.5 km from venue",
+    "priceRange": "₹12,000 - ₹35,000 / night",
+    "bookingUrl": "https://www.itchotels.com",
+    "phone": "+91 11 2611 2233",
+    "address": "Sardar Patel Marg, Diplomatic Enclave, New Delhi"
+  },
+  {
+    "name": "Le Meridien",
+    "distance": "4 km from venue",
+    "priceRange": "₹8,000 - ₹20,000 / night",
+    "bookingUrl": "https://www.marriott.com",
+    "phone": "+91 11 2371 0101",
+    "address": "Windsor Place, Janpath, New Delhi"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The First Meeting",
+    "description": "We first crossed paths at a mutual friend's art exhibition in Hauz Khas Village. A conversation about abstract art turned into hours of talking, laughing, and discovering we had more in common than we ever imagined.",
+    "date": "March 2021",
+    "image": "/photos/story/first-meeting.jpg"
+  },
+  {
+    "title": "The First Date",
+    "description": "A cozy evening at a rooftop café in Connaught Place, watching the sunset paint the Delhi sky in shades of gold. That evening, we both knew this was something special.",
+    "date": "April 2021",
+    "image": "/photos/story/first-date.jpg"
+  },
+  {
+    "title": "Adventures Together",
+    "description": "From spontaneous road trips to Jaipur to quiet Sunday mornings with chai and books, every moment together became a cherished memory in our love story.",
+    "date": "2021 - 2024",
+    "image": "/photos/story/adventures.jpg"
+  },
+  {
+    "title": "Meeting the Families",
+    "description": "The day our families met was filled with warmth, laughter, and the unmistakable feeling that we were meant to be. Both families connected instantly over dinner.",
+    "date": "January 2025",
+    "image": "/photos/story/families.jpg"
+  },
+  {
+    "title": "The Proposal",
+    "description": "Under a canopy of fairy lights at the Lodhi Gardens, Arjun got down on one knee with a ring that sparkled as bright as our future together. She said yes!",
+    "date": "June 2025",
+    "image": "/photos/story/proposal.jpg"
+  },
+  {
+    "title": "The Big Day",
+    "description": "And now, we invite you to celebrate the beginning of our forever. Join us as we embark on the most beautiful journey of our lives — together.",
+    "date": "December 2026",
+    "image": "/photos/story/wedding.jpg"
+  }
+]

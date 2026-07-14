@@ -1,0 +1,15 @@
+{
+  "showHero": true,
+  "showCountdown": true,
+  "showStory": true,
+  "showEvents": true,
+  "showGallery": true,
+  "showFamily": true,
+  "showVenue": true,
+  "showRSVP": true,
+  "showGift": true,
+  "showHotels": true,
+  "showMusic": true,
+  "showDressCode": true,
+  "showParking": false
+}

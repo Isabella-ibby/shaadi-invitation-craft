@@ -1,0 +1,14 @@
+[
+  { "src": "/gallery/photo-1.jpg", "alt": "Couple portrait in garden", "category": "couple", "width": 800, "height": 1200 },
+  { "src": "/gallery/photo-2.jpg", "alt": "Pre-wedding shoot at sunset", "category": "pre-wedding", "width": 1200, "height": 800 },
+  { "src": "/gallery/photo-3.jpg", "alt": "Engagement ceremony", "category": "engagement", "width": 800, "height": 1000 },
+  { "src": "/gallery/photo-4.jpg", "alt": "Couple walking together", "category": "couple", "width": 1200, "height": 800 },
+  { "src": "/gallery/photo-5.jpg", "alt": "Family gathering", "category": "family", "width": 1000, "height": 800 },
+  { "src": "/gallery/photo-6.jpg", "alt": "Pre-wedding photoshoot", "category": "pre-wedding", "width": 800, "height": 1200 },
+  { "src": "/gallery/photo-7.jpg", "alt": "Ring ceremony", "category": "engagement", "width": 1200, "height": 800 },
+  { "src": "/gallery/photo-8.jpg", "alt": "Romantic portrait", "category": "couple", "width": 800, "height": 1000 },
+  { "src": "/gallery/photo-9.jpg", "alt": "Family blessings", "category": "family", "width": 1200, "height": 800 },
+  { "src": "/gallery/photo-10.jpg", "alt": "Couple at beach", "category": "pre-wedding", "width": 1000, "height": 800 },
+  { "src": "/gallery/photo-11.jpg", "alt": "Engagement party", "category": "engagement", "width": 800, "height": 1200 },
+  { "src": "/gallery/photo-12.jpg", "alt": "Together forever", "category": "couple", "width": 1200, "height": 800 }
+]

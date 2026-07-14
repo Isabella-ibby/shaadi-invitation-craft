@@ -1,0 +1,18 @@
+{
+  "showUPI": true,
+  "upiId": "ananya@upi",
+  "upiQR": "/photos/upi-qr.png",
+  "showBank": true,
+  "bankDetails": {
+    "name": "Ananya & Arjun Wedding Fund",
+    "account": "1234567890",
+    "ifsc": "SBIN0001234",
+    "bank": "State Bank of India"
+  },
+  "showRegistry": true,
+  "registryLinks": [
+    { "name": "Amazon Wishlist", "url": "https://amazon.in/registry", "icon": "ShoppingBag" },
+    { "name": "MyRegistry", "url": "https://myregistry.com", "icon": "Gift" }
+  ],
+  "message": "Your presence at our wedding is the greatest gift of all. However, if you wish to honor us with a gift, we have created a few options for your convenience."
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Mehndi Ceremony",
+    "date": "December 17, 2026",
+    "time": "11:00 AM - 4:00 PM",
+    "venue": "Bride's Residence, South Delhi",
+    "icon": "Palette",
+    "description": "Join us for an afternoon of beautiful henna art, music, and celebration as we begin our wedding festivities.",
+    "dressCode": "Colorful Indian Attire"
+  },
+  {
+    "title": "Haldi Ceremony",
+    "date": "December 18, 2026",
+    "time": "9:00 AM - 1:00 PM",
+    "venue": "The Taj Palace Gardens",
+    "icon": "Sun",
+    "description": "A sacred ritual of turmeric blessings. Come dressed in yellow and prepare for some fun!",
+    "dressCode": "Yellow Traditional Wear"
+  },
+  {
+    "title": "Sangeet Night",
+    "date": "December 19, 2026",
+    "time": "7:00 PM - 12:00 AM",
+    "venue": "The Taj Palace Ballroom",
+    "icon": "Music",
+    "description": "An evening of dance, music, and unforgettable performances. Get ready to dance the night away!",
+    "dressCode": "Cocktail / Indo-Western"
+  },
+  {
+    "title": "Wedding Ceremony",
+    "date": "December 20, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "venue": "The Taj Palace Grand Lawn",
+    "icon": "Heart",
+    "description": "The moment we've been waiting for. Join us as we take our vows and begin our forever together.",
+    "dressCode": "Formal Indian / Black Tie"
+  },
+  {
+    "title": "Grand Reception",
+    "date": "December 21, 2026",
+    "time": "7:00 PM - 1:00 AM",
+    "venue": "The Taj Palace Durbar Hall",
+    "icon": "PartyPopper",
+    "description": "Celebrate with us at a grand reception filled with gourmet dining, live music, and dancing.",
+    "dressCode": "Black Tie / Evening Gowns"
+  }
+]
