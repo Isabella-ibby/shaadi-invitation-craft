@@ -49,7 +49,7 @@ export default function Gallery() {
       {/* Masonry Grid */}
       <div className="columns-2 md:columns-3 lg:columns-4 gap-4 space-y-4 px-2">
         <AnimatePresence mode="popLayout">
-          {filteredImages.map((image, idx) => {
+          {filteredImages.map((image) => {
             // Find the actual index in the full galleryData array for the lightbox
             const globalIndex = galleryData.findIndex(img => img.src === image.src);
             

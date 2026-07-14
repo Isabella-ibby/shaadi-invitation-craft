@@ -76,7 +76,7 @@ export default function Footer() {
           </div>
 
           <p className="font-body italic text-sm md:text-base max-w-lg mx-auto mb-12 leading-relaxed" style={{ color: 'var(--color-text-muted)' }}>
-            "{clientData.thankYouMessage}"
+            &quot;{clientData.thankYouMessage}&quot;
           </p>
 
           <div className="w-24 h-[1px] mx-auto mb-12" style={{ backgroundColor: 'var(--color-border)' }} />

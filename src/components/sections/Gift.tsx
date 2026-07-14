@@ -6,7 +6,6 @@ import Image from 'next/image';
 import { Copy, Check, ExternalLink, CreditCard, Building, Gift as GiftIcon } from 'lucide-react';
 import SectionWrapper from '@/components/ui/SectionWrapper';
 import Card from '@/components/ui/Card';
-import Button from '@/components/ui/Button';
 import giftsData from '@/data/gifts.json';
 import { copyToClipboard } from '@/lib/utils';
 import { staggerContainer, fadeInUp } from '@/lib/animations';

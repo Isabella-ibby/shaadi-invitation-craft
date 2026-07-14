@@ -85,7 +85,7 @@ export default function RSVP() {
                 Thank You!
               </h3>
               <p className="font-body text-lg" style={{ color: 'var(--color-text-muted)' }}>
-                Your response has been received. We can't wait to celebrate with you!
+                Your response has been received. We can&apos;t wait to celebrate with you!
               </p>
             </motion.div>
           ) : (

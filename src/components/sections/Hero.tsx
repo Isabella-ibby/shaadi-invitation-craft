@@ -64,7 +64,7 @@ export default function Hero() {
           className="font-body italic text-sm md:text-base max-w-md mx-auto"
           style={{ color: 'var(--color-text-muted)' }}
         >
-          "{clientData.quote}"
+          &quot;{clientData.quote}&quot;
         </motion.p>
       </motion.div>
 

@@ -9,7 +9,7 @@ import eventsData from '@/data/events.json';
 import { staggerContainer, fadeInUp } from '@/lib/animations';
 import React from 'react';
 
-const iconMap: Record<string, React.ComponentType<any>> = {
+const iconMap: Record<string, React.ElementType> = {
   Palette, Sun, Music, Heart, PartyPopper, MapPin, Calendar, Clock, Shirt
 };
 
